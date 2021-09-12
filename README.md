@@ -1,4 +1,4 @@
-# Portuguese Sentiment Analisys with Transformers
+# Portuguese Tweet Sentiment Analisys
 
 This project was done as the final assingment for the PCS5029 discipline
 in the Polytecnic Schoold of the University of São Paulo.
